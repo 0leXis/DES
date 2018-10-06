@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DESFullScreen", "DESFullScreen.csproj", "{B698C6CF-6222-4E62-AD32-A52B43287AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B698C6CF-6222-4E62-AD32-A52B43287AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B698C6CF-6222-4E62-AD32-A52B43287AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B698C6CF-6222-4E62-AD32-A52B43287AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B698C6CF-6222-4E62-AD32-A52B43287AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
